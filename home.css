@@ -1,0 +1,354 @@
+/* Font set */
+
+@import url('https://fonts.googleapis.com/css2?family=Bangers&family=Bebas+Neue&family=Cinzel&family=Cormorant+Upright:wght@300&family=Exo+2:ital,wght@0,100;1,300&family=Montserrat:wght@300&family=PT+Mono&family=Pacifico&display=swap');
+/* Font set */
+
+
+
+html{
+    
+}
+
+header{
+
+    background-image: url(anaz_br/coffee_coffee_beans_roasted_136543_1920x1080.jpg);
+    width: auto;
+    height: 290px;
+    color: rgb(255, 250, 248);
+    font-family: 'Bangers', cursive;
+font-family: 'Bebas Neue', cursive;
+
+    text-align: center;
+    text-shadow: rgb(104, 15, 15) 2px 4px 3px;
+}
+
+.fh1{
+    position: absolute;
+    top: 1%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    color: rgb(79, 32, 32);
+    text-align: center;
+    font-family: 'Cinzel', serif;
+    text-shadow: black 2px 3px 9px;
+    
+    font-size: 34pt;
+}
+.fh2{
+    position: absolute;
+    top: 15%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    color: rgb(83, 27, 27);
+    text-align: center;
+    margin-top: -59px;
+    font-family: 'Pacifico', cursive;
+    text-shadow: black 2px 1px 29px;
+    font-size:13pt;
+    font-style: italic;
+
+
+}  
+
+h4{
+    text-align: left;
+    font-family: 'Cinzel', serif;
+    
+}
+h5{
+    font-family: 'Bangers', cursive;
+    color: rgb(69, 40, 16);
+}
+
+.d1{
+    position: relative;
+    
+    width: 100%;
+    
+}
+
+.d1 .img1{
+    width: 100%;
+}
+
+.p1{
+    position: absolute;
+    top: 20%;
+    left: 30%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    color: brown;
+    font-family: 'Cormorant Upright', serif;
+    margin: 25px;
+    font-weight: 150;
+    font-size: 15pt;
+    margin-top: 20px;
+
+
+}
+
+.s1{
+    font-size: 20pt;
+}
+
+
+.d1 .cont{
+    position: absolute;
+color: rgb(83, 45, 15);
+    float: left;
+    width: 400px;
+    height: 180px;
+    /* background-color: rgb(206, 70, 70); */
+    font-size: 12pt;
+    text-shadow: rgb(255, 255, 255) 2px 3px 9px;
+    margin-left: 45px;
+    margin-top: -45px;
+    
+}
+
+
+
+.hd1{
+    position: absolute;
+    top: -275%;
+    left: 70%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    margin-top: 18px;
+    margin-left: -27px;
+    font-size: 16pt;
+}
+
+
+.c1{
+
+    position: absolute;
+    top: -186%;
+    left: 25%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+font-size: 23pt;
+margin-left: 25px;
+margin-top: -24px;
+text-shadow: rgb(255, 255, 255) 2px 3px 9px;
+
+}
+.c2{
+    position: absolute;
+    top: -241%;
+    left: 40%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    font-size: 23pt;
+    margin-left: 225px;
+    margin-top: 75px;
+    text-shadow: rgb(255, 255, 255) 2px 3px 9px;
+}
+
+.c3{
+    position: absolute;
+    top: -146%;
+    left:50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+
+    font-size: 20pt;
+    margin-top: -140px;
+    margin-left: 65px;
+    text-shadow: rgb(255, 255, 255) 2px 1px 9px;
+    
+}
+
+
+
+.bg1{
+background-color: rgb(44, 42, 42);
+    position: absolute;
+    width: 100%;
+}
+
+.bg1 .img2{
+    width: 9%;
+}
+
+.img2{
+    position: absolute;
+    top: -12%;
+    left: 7%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+}
+
+.bg1 .img1{
+margin-top: -20%;
+    width: 100%;
+    height: auto;
+    
+
+}
+
+.btn2 {
+    position: absolute;
+    top: -15%;
+    left: 95%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color:oldlace;
+    opacity: 0.5;
+    color: rgb(96, 19, 19);
+    font-size: 16px;
+ font-family: monospace;
+    padding: 3px 24px;
+    border: none;
+    cursor: pointer;
+    border-radius: 2px;
+  }
+  
+  #footer {
+    background-color: rgb(18, 18, 18);
+    background-image: url(/anaz_br/bigstock-Coffee-Cup-Cup-Of-Coffee-1375146.jpg);
+    width: 100%;
+    height: 500px;
+    background-size: cover;
+       width: 100%;
+       height: 170px;
+}
+
+
+
+div.fte {
+    color: rgba(138, 100, 29, 0.938);
+    
+    font-family: 'Montserrat', sans-serif;
+    text-shadow: rgb(18, 88, 34) 2px 1px 9px;
+    text-align: center;
+}
+
+pre {
+    word-spacing: 12px;
+    font-family: 'PT Mono', monospace;
+    font-size: 15px;
+    color: white;
+
+}
+
+
+
+#pro {
+    padding-top: -50px;
+    color: rgb(99, 37, 68);
+    font-family: 'Pacifico', cursive;
+    text-shadow: black 2px 3px 2px;
+    text-align: center;
+    font-size: 22px;
+    
+    word-spacing: 10px;
+}
+.row {
+    margin-top: -100px;
+    background-image: url(/anaz_br/GettyImages-1165807395-2000.jpg);
+    background-size: cover;
+    height: 800px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.col {
+    text-align: center;
+    align-items: center;
+    align-content: center;
+    border-radius: 4px;
+
+    width: 400px;
+    height: 500px;
+    background-color: rgb(170, 133, 9);
+   
+    position: relative;
+    animation-name: example;
+    animation-duration: 4s;
+    animation-direction: reverse;
+}
+
+
+
+#prh {
+    font-family: monospace;
+    font-size: 25px;
+    color: rgb(99, 42, 165);
+}
+
+#prh1 {
+    padding-top: 23px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 25px;
+    color: brown;
+}
+
+#prg1 {
+    text-align: justify;
+    padding-left: 50px;
+    width: 320px;
+    font-size: small;
+    font-family: 'PT Mono', monospace;
+    color: brown;
+}
+
+.col:hover {
+    font-size: 17px;
+
+    font-weight: bolder;
+    background-color: white;
+}
+
+
+
+#see{
+
+    color: rgb(132, 0, 255);
+    background-color: rgb(0, 0, 0);
+    border-color: rgb(61, 12, 12);
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.sp1{
+
+    color: rgb(59, 54, 65);
+}
+
+.b1 .bh1{
+
+    margin-top: 40px;
+}
+
+/* 
+font-family: 'Bangers', cursive;
+font-family: 'Bebas Neue', cursive;
+font-family: 'Cinzel', serif;
+font-family: 'Cormorant Upright', serif;
+font-family: 'Exo 2', sans-serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Pacifico', cursive;
+font-family: 'PT Mono', monospace;
+ */
+
+ .d1 h4{
+
+    text-align: center;
+    margin-top: 80px; }
+
+ .bg1 .box{
+position: relative;
+    width: 20px;
+    height: 40px;
+    background-color: gray;
+ }
+
+
+ #pr {
+    border-radius: 55px;
+    margin-top: 15px;
+    margin-left: 50px;
+    width: 300px;
+}
